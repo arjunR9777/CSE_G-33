@@ -1,0 +1,50 @@
+.Title{
+    text-decoration:underline;
+    font-weight:bold;
+    padding:3%;
+    font-size: 45px;
+    text-align: center;
+}
+body{
+    font-family: 'Times New Roman', Times, serif;
+   }
+.Para{
+    font-size: 25px;
+    font-weight: 450;
+    font-family: 'Times New Roman', Times, serif;
+    text-align: left;
+    padding-top: 1%;
+    padding-left: 6%;
+    padding-right: 5%;
+}
+.Head2{
+    text-decoration:underline;
+    font-weight: 600;
+    padding-top: 1%;
+    text-align: left;
+    padding-left: 6%;
+}
+.Flush{
+    text-align: left;
+    padding-top: 0%;
+    padding-left: 5%;
+    padding-right: 5%;
+}
+.table{
+    font-size: 20px;
+    font-weight: 450;
+    font-family: 'Times New Roman', Times, serif;
+    text-align: left;
+    padding-top: 1%;
+    padding-left: 6%;
+    padding-right: 5%;
+}
+
+.Flush2{
+    padding-top: 2%;
+}
+
+.image{
+    height: 650px;
+    width: 800px;
+}
